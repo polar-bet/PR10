@@ -9,7 +9,7 @@
   }],
   "env": {
     "APP_ENV": "production",
-    "APP_DEBUG": "false",
+    "APP_DEBUG": "true",
     "APP_URL": "pr-10-gn3xm38yj-pbear8190-gmailcom.vercel.app",
 
     "APP_CONFIG_CACHE": "/tmp/config.php",
